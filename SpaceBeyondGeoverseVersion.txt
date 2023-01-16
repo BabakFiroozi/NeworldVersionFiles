@@ -3,6 +3,5 @@
   "force": true,
   "url": "https://apps.apple.com/us/app/space-beyond-geoverse/id1641240016",
   "data": "",
-  "desc": "Please update the game to the new version. Android players please search <color=green>Space Beyond</color> google play.
-thanks"
+  "desc": "Please update the game to the new version. Android players please search <color=green>Space Beyond</color> google play.\nthanks"
 }
