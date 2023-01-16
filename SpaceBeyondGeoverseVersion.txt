@@ -1,7 +1,8 @@
 {
-  "version": "0.5.0",
-  "force": false,
-  "url": "https://play.google.com/store/apps/details?id=com.cryptogogames.spacebeyondgeoverse&hl=en&gl=US",
+  "version": "0.9.5",
+  "force": true,
+  "url": "https://apps.apple.com/us/app/space-beyond-geoverse/id1641240016",
   "data": "",
-  "desc": "You will see a new boss"
+  "desc": "Please update the game to the new version. Android players please search <color=green>Space Beyond</color> google play.
+thanks"
 }
